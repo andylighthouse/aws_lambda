@@ -1,0 +1,7 @@
+{
+  "name": "aws-lambda",
+  "private": true,
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
